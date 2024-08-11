@@ -1,4 +1,4 @@
-# AIML-2025-2303A51013-G.Siddartha
+# AIML-2025-2303A52010-M.Goutham
 # Artificial Intlligance and Machine Learning Lab Instruction Sheets
 1. [Lab 01](https://github.com/2303A51013/AIML-2025/blob/main/AIML_A1.pdf); Introduction to Python Libraries-Numpy, Pandas, Matplotlib, and Access to Data Sources
 2. [Lab 02](https://github.com/2303A51013/AIML-2025/blob/main/AIML_A2.pdf); Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
